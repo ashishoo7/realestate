@@ -6215,7 +6215,7 @@ h6 {
   z-index: 110;
   bottom: 10px;
   right: 10px;
-  width: 400px;
+  width: 300px;
   height: 400px;
   background-color: #BC9540;
   border-radius: 10px;
@@ -6279,4 +6279,5 @@ h6 {
 .popup-container.minimized {
   transform: translateY(360px);
 }
+
 /*# sourceMappingURL=style.css.map */
